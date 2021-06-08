@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [React-template](https://react-template-badhon.herokuapp.com/home)
 
+- 🌱 I’m currently learning **React and Nodejs**
+
 - 👯 I’m looking to collaborate on **Food-template**
 
 - 💬 Ask me about **React,Vue,Laravel**
@@ -24,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prottay-badhon&show_icons=true&locale=en&layout=compact" alt="prottay-badhon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prottay-badhon&show_icons=true&locale=en" alt="prottay-badhon" /></p>
-
