@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Badhon</h1>
+<h1 align="center">Hey 👋, I'm Badhon</h1>
 <h3 align="center">A passionate React Developer from Bangladesh</h3>
 <img  align="center" src='https://axsisnet.com/wp-content/uploads/2018/08/banner-web-design.png'/>
 
