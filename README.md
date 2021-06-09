@@ -12,12 +12,12 @@
 
 - 🌱 I’m currently learning **React and Nodejs**
 
-- 👯 I’m looking to collaborate on **Food-template**
+- 👯 I’m looking to collaborate on **Food-template** https://preview.colorlib.com/#feliciano
 
 - 💬 Ask me about **React,Vue,Laravel**
 
 - 📫 How to reach me **prottaybadhin54@gmail.com**
-- Food-template: https://preview.colorlib.com/#feliciano
+- 
 
 - ⚡ Fun fact **I Think I am Lucky**
 <img align='right' class='rounded-circle' src='https://scontent.fcgp10-1.fna.fbcdn.net/v/t1.6435-9/168169158_950682559071098_5766853616198430486_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=f41ybSP2_QIAX_BecO0&_nc_ht=scontent.fcgp10-1.fna&oh=b002b43212d3ca62211686714621f980&oe=60E5D628' height='300' width='210' style='border-radius: 100%'/>
