@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React,Vue,Laravel**
 
-- 📫 How to reach me **prottaybadhin54@gmail.com**
+- 📫 How to reach me **prottaybadhon54@gmail.com**
 - 
 
 - ⚡ Fun fact **I Think I am Lucky**
