@@ -10,6 +10,9 @@
 
 - 🔭 I’m currently working on [React-template](https://react-template-badhon.herokuapp.com/home)
 - 👯 Current project [React-food-template](https://react-food-template.herokuapp.com/)
+- 👯 Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
+- 👯 Simple HTML [Glozzom](https://prottay-badhon.github.io/Glozzom/)
+- 👯 Simple HTML [LoopLab](https://prottay-badhon.github.io/LoopLab/)
 
 - 🌱 I’m currently learning **React and Nodejs**
 
