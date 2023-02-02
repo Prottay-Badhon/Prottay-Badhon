@@ -18,7 +18,7 @@
   <li><a href="https://brilliant-lebkuchen-25fa14.netlify.app/" target="_blank">Phone Hunter(Java script)</a></li>
   <li><a href="https://luxury-rabanadas-c11877.netlify.app/" target="_blank">Money Monster(Java script)</a></li>
   <li><a href="https://assignment3badhon.netlify.app/" target="_blank">Convention Center(HTML,CSS)</a></li>
-  <li><a href="https://classy-crumble-95f071.netlify.app/" target="_blank">Developer Protfolio</a></li>
+  <li><a href="https://classy-crumble-95f071.netlify.app/" target="_blank">Developer Protfolio(HTML,CSS)</a></li>
   <li><a href="https://prottay-badhon.github.io/LoopLab/" target="_blank">Loop Lab(HTML,CSS)</a></li>
    <li><a href="https://prottay-badhon.github.io/Glozzom/" target="_blank">Glozzom(HTML,CSS)</a></li>
    <li><a href="https://prottay-badhon.github.io/Mizuxe/" target="_blank">Mizuxe(HTML,CSS)</a></li>
