@@ -29,23 +29,15 @@
    <li><a href="https://effulgent-toffee-27b1f5.netlify.app/" target="_blank">Ema John(HTML,CSS)</a></li>
   
  </ol>
-- 👯 React project [React-food-template](https://nimble-starburst-4ed5b9.netlify.app/)
-- 👯Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
-- 👯 Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
-- 👯 Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
-- 👯 Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
-- 👯 Simple HTML [Glozzom](https://prottay-badhon.github.io/Glozzom/)
-- 👯 Simple HTML [LoopLab](https://prottay-badhon.github.io/LoopLab/)
+
 
 - 🌱 I’m currently learning **React and Nodejs**
 
-- 👯 I’m looking to collaborate on **Food-template** https://preview.colorlib.com/#feliciano
-
-- 💬 Ask me about **React,Vue,Laravel**
+- 💬 Ask me about **React js, node js**
 
 - 📫 How to reach me **prottaybadhon54@gmail.com**
 
-- ⚡ Fun fact **I Think I am Lucky**
+- ⚡ True fact **Allah is the best planner**
 <img align='right' class='rounded-circle' src='https://scontent.fcgp10-1.fna.fbcdn.net/v/t1.6435-9/168169158_950682559071098_5766853616198430486_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=f41ybSP2_QIAX_BecO0&_nc_ht=scontent.fcgp10-1.fna&oh=b002b43212d3ca62211686714621f980&oe=60E5D628' height='300' width='210' style='border-radius: 100%'/>
 
 <h3 align="left">Languages and Tools:</h3>
