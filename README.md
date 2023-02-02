@@ -7,9 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prottay-badhon" alt="prottay-badhon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="center">Below is a list of projects' live website links. </h3>
-- 🔭 I’m currently working on [React-template](https://react-template-badhon.herokuapp.com/home)
-- 👯 Current project [React-food-template](https://react-food-template.herokuapp.com/)
+<h3 align="center">Below is a list of projects live website links. </h3>
+- 👯 React project [React-food-template](https://nimble-starburst-4ed5b9.netlify.app/)
+-  Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
+-   Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
+-    Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
 - 👯 Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
 - 👯 Simple HTML [Glozzom](https://prottay-badhon.github.io/Glozzom/)
 - 👯 Simple HTML [LoopLab](https://prottay-badhon.github.io/LoopLab/)
