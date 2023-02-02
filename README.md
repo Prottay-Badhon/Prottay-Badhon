@@ -9,12 +9,25 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="center">Below is a list of projects live website links. </h3>
 <ol>
-  <li><a href="https://nimble-starburst-4ed5b9.netlify.app/" target="_blank">React food template</a></li>
-   <li>Badhon</li> 
-  <li>Badhon</li> 
-  <li>Badhon</li> 
-  <li>Badhon</li> 
-  <li>Badhon</li>
+  <li><a href="https://nimble-starburst-4ed5b9.netlify.app/" target="_blank">React food template(React js)</a></li>
+   <li><a href="https://journalist-photgrapher.web.app/" target="_blank">Jorunalism Photographer(React js)</a></li>
+  <li><a href="https://nimble-starburst-cf3161.netlify.app/" target="_blank">Read Onion(React js)</a></li>
+  <li><a href="https://jolly-cheesecake-495d9b.netlify.app/" target="_blank">Car Forest(React js)</a></li>
+  <li><a href="https://comforting-pixie-f23a82.netlify.app/" target="_blank">Watch Fashion(React js)</a></li>
+  <li><a href="https://incandescent-fudge-9085ea.netlify.app/" target="_blank">Newsportal(HTML,CSS)</a></li>
+  <li><a href="https://brilliant-lebkuchen-25fa14.netlify.app/" target="_blank">Phone Hunter(Java script)</a></li>
+  <li><a href="https://luxury-rabanadas-c11877.netlify.app/" target="_blank">Money Monster(Java script)</a></li>
+  <li><a href="https://assignment3badhon.netlify.app/" target="_blank">Convention Center(HTML,CSS)</a></li>
+  <li><a href="https://classy-crumble-95f071.netlify.app/" target="_blank">Developer Protfolio</a></li>
+  <li><a href="https://prottay-badhon.github.io/LoopLab/" target="_blank">Loop Lab(HTML,CSS)</a></li>
+   <li><a href="https://prottay-badhon.github.io/Glozzom/" target="_blank">Glozzom(HTML,CSS)</a></li>
+   <li><a href="https://prottay-badhon.github.io/Mizuxe/" target="_blank">Mizuxe(HTML,CSS)</a></li>
+   <li><a href="https://inquisitive-sherbet-2ea5a9.netlify.app/" target="_blank">Influencer Gear(HTML,CSS)</a></li>
+   <li><a href="https://scintillating-florentine-a7c5e1.netlify.app/" target="_blank">Leader Board(HTML,CSS)</a></li>
+  <li><a href="https://cute-scone-ee4d55.netlify.app/" target="_blank">Ceaser Cipher(HTML,CSS)</a></li>
+  <li><a href="https://panda-commerce-badhon.netlify.app/" target="_blank">Panda Commerce (HTML,CSS)</a></li>
+   <li><a href="https://effulgent-toffee-27b1f5.netlify.app/" target="_blank">Ema John(HTML,CSS)</a></li>
+  
  </ol>
 - 👯 React project [React-food-template](https://nimble-starburst-4ed5b9.netlify.app/)
 - 👯Simple HTML [Mizuxe](https://prottay-badhon.github.io/Mizuxe/)
