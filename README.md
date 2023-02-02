@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prottay-badhon" alt="prottay-badhon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="center">Below is a list of projects live website links. </h3>
+<h3 align="center">Below is a list of projects live website links done by me </h3>
 <ol>
   <li><a href="https://nimble-starburst-4ed5b9.netlify.app/" target="_blank">React food template(React js)</a></li>
    <li><a href="https://journalist-photgrapher.web.app/" target="_blank">Jorunalism Photographer(React js)</a></li>
